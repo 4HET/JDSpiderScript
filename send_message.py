@@ -105,7 +105,7 @@ def get_sign(secret):
 
 
 def send(text):
-
+    pass
 
 
 def send_message(text):

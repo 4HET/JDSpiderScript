@@ -316,12 +316,8 @@ def main():
         get_car(cookie)
 
         find('inform.json')
-        # print("---------")
-        # print(begin)
-        # print("---------")
         get_yh(cookie)
         get_best()
-        # print(inform)
         update_lower()
     with open('all.json', 'w', encoding='utf-8') as fp:
         json.dump(inform, fp=fp, ensure_ascii=False)
