@@ -106,25 +106,6 @@ def get_sign(secret):
 
 def send(text):
 
-    headers = {
-        'Content-Type': 'application/json'
-    }
-    data = {
-         "msgtype": "text",
-         "text": {
-            "content": text
-            }
-    }
-    url_list = ["https://oapi.dingtalk.com/robot/send?access_token=a76f67ef908b8da41aa262150094cb0d1ad957edcf0b8ac06f9bd9cabe643361", "https://oapi.dingtalk.com/robot/send?access_token=7df2b5a69e1ef1ae2eba1a1de92f2f436ccdf6376db5005438c4fea64771f442", "https://oapi.dingtalk.com/robot/send?access_token=83210afc33e5aefcd51f8e9f6dd62e64d5de9fc87b63dd04193eac06977dd7d5", "https://oapi.dingtalk.com/robot/send?access_token=cc68028598296764cc6089c611c16ccbf22ae26b1ca30dd73816daf854803399"]
-    secret_list = ["SEC97223af3ed4bbcc45110c73d1d666b6259f96b417abfb2b217ee0a568ac556e5", "SEC88704d959add6e254f6e4fdb2fd622f5fcde6c1265947fc46a50fee1c37b020f", "SEC6bee4e7167453cb8e38e416feb96babbfd081b34b274973430a7e86187565cf1", "SECffc305e2062d47b4f6ed007eea08e0066bb9623b56e7fbb15dfc49ae836754ad"]
-    index = random.randint(0, len(url_list)-1)
-    timestamp, sign = get_sign(secret_list[index])
-    uu = url_list[index] + "&timestamp={}&sign={}".format(timestamp, sign)
-    html = requests.post(uu, headers=headers, json=data)
-    if html.json()['errmsg'] == "ok":
-        print("消息发送成功")
-    else:
-        print(html.json()['errmsg'])
 
 
 def send_message(text):
