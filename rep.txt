@@ -1,0 +1,1252 @@
+
+queryCoupon_Cb8770(
+
+{
+    "errId":"0",
+    "errMsg":"",
+    "usableCoupons":[
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"163560925651",
+        "batchId":"838144490", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-01 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"100", 
+        "quota":"101", 
+        "name":"仅可购买海尔品牌部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100017708766
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100017708766",
+			"skuItemType":"1",
+			"skuUuid":"F1V4XS1038836552426700800",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.01 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=838144490&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=838144490&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥101",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"163562386943",
+        "batchId":"837412586", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-01 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"100", 
+        "quota":"101", 
+        "name":"仅可购买海尔品牌部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100017708766
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100017708766",
+			"skuItemType":"1",
+			"skuUuid":"F1V4XS1038836552426700800",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.01 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=837412586&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=837412586&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥101",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"279989956033",
+        "batchId":"837723922", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-01 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"50", 
+        "quota":"51", 
+        "name":"仅可购买海尔品牌部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100017708766
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100017708766",
+			"skuItemType":"1",
+			"skuUuid":"F1V4XS1038836552426700800",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.01 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=837723922&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=837723922&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥51",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"162712265855",
+        "batchId":"838292266", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-01-28 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"500", 
+        "quota":"2000", 
+        "name":"仅可购买海信电视部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100015417592
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100015417592",
+			"skuItemType":"11",
+			"skuUuid":"F1g3U1Z1047191442292330496",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.01.28 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=838292266&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=838292266&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥2000",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"163562008391",
+        "batchId":"837473886", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-07 00:00:00",
+        "endTime":"2022-02-15 23:59:59", 
+        "discount":"30", 
+        "quota":"300", 
+        "name":"仅可购买小家电部分活动商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	1161131
+		
+		
+		],
+		"discountDesc":{
+        	"high":"30000", 
+			"discountInfo":[
+			
+			{
+				"discount":"30",
+				"quota":"300"
+			}
+			
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"1161131",
+			"skuItemType":"1",
+			"skuUuid":"FZ1z1U1019508262153498624",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"28", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.07 - 2022.02.15",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=837473886&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=837473886&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥300",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"163562300051",
+        "batchId":"837586550", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-01 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"30", 
+        "quota":"300", 
+        "name":"仅可购买格力、大松、晶弘品牌部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100019386658
+		,
+		
+	 	100010607429
+		,
+		
+	 	100022280450
+		,
+		
+	 	100022875450
+		,
+		
+	 	100015491508
+		,
+		
+	 	100010607431
+		,
+		
+	 	100014511310
+		,
+		
+	 	100008718537
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100019386658",
+			"skuItemType":"1",
+			"skuUuid":"F1I3n3K1013573681099624448",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010607429",
+			"skuItemType":"1",
+			"skuUuid":"F1k4D3t962478434957721600",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022280450",
+			"skuItemType":"1",
+			"skuUuid":"Fm3R3u1038827545226399744",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022875450",
+			"skuItemType":"1",
+			"skuUuid":"f3lsd1029077024799141888",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100015491508",
+			"skuItemType":"1",
+			"skuUuid":"F1ss1R962071864110088192",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010607431",
+			"skuItemType":"11",
+			"skuUuid":"F2s2s1Y1048990261078790144",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100014511310",
+			"skuItemType":"11",
+			"skuUuid":"F1t2x3c992812247766745088",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100008718537",
+			"skuItemType":"11",
+			"skuUuid":"F1I2M2f982652868834492416",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"7",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.01 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=837586550&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=837586550&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥300",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"163561998859",
+        "batchId":"836760058", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-01-31 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"30", 
+        "quota":"999", 
+        "name":"仅可购买格力空调部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100019386658
+		,
+		
+	 	100010607429
+		,
+		
+	 	100022280450
+		,
+		
+	 	100022875450
+		,
+		
+	 	100015491508
+		,
+		
+	 	100010607431
+		,
+		
+	 	100014511310
+		,
+		
+	 	100008718537
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100019386658",
+			"skuItemType":"1",
+			"skuUuid":"F1I3n3K1013573681099624448",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010607429",
+			"skuItemType":"1",
+			"skuUuid":"F1k4D3t962478434957721600",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022280450",
+			"skuItemType":"1",
+			"skuUuid":"Fm3R3u1038827545226399744",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022875450",
+			"skuItemType":"1",
+			"skuUuid":"f3lsd1029077024799141888",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100015491508",
+			"skuItemType":"1",
+			"skuUuid":"F1ss1R962071864110088192",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010607431",
+			"skuItemType":"11",
+			"skuUuid":"F2s2s1Y1048990261078790144",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100014511310",
+			"skuItemType":"11",
+			"skuUuid":"F1t2x3c992812247766745088",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100008718537",
+			"skuItemType":"11",
+			"skuUuid":"F1I2M2f982652868834492416",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.01.31 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=836760058&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=836760058&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥999",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"279898666537",
+        "batchId":"838616630", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-09 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"30", 
+        "quota":"999", 
+        "name":"仅可购买格力空调部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100019386658
+		,
+		
+	 	100010607429
+		,
+		
+	 	100022280450
+		,
+		
+	 	100022875450
+		,
+		
+	 	100015491508
+		,
+		
+	 	100010607431
+		,
+		
+	 	100014511310
+		,
+		
+	 	100008718537
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100019386658",
+			"skuItemType":"1",
+			"skuUuid":"F1I3n3K1013573681099624448",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010607429",
+			"skuItemType":"1",
+			"skuUuid":"F1k4D3t962478434957721600",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022280450",
+			"skuItemType":"1",
+			"skuUuid":"Fm3R3u1038827545226399744",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022875450",
+			"skuItemType":"1",
+			"skuUuid":"f3lsd1029077024799141888",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100015491508",
+			"skuItemType":"1",
+			"skuUuid":"F1ss1R962071864110088192",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010607431",
+			"skuItemType":"11",
+			"skuUuid":"F2s2s1Y1048990261078790144",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100014511310",
+			"skuItemType":"11",
+			"skuUuid":"F1t2x3c992812247766745088",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100008718537",
+			"skuItemType":"11",
+			"skuUuid":"F1I2M2f982652868834492416",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.09 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=838616630&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=838616630&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥999",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"162279381331",
+        "batchId":"838060914", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-02 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"50", 
+        "quota":"2000", 
+        "name":"仅可购买自营电视影音部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100017708766
+		,
+		
+	 	100024108628
+		,
+		
+	 	100008483033
+		,
+		
+	 	100014190865
+		,
+		
+	 	100012179580
+		,
+		
+	 	100008216886
+		,
+		
+	 	100007300763
+		,
+		
+	 	100010786833
+		,
+		
+	 	100017597718
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100017708766",
+			"skuItemType":"1",
+			"skuUuid":"F1V4XS1038836552426700800",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100024108628",
+			"skuItemType":"1",
+			"skuUuid":"FZ1Xf1026939716675670016",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100008483033",
+			"skuItemType":"11",
+			"skuUuid":"F1j1M2F1043987418780348416",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100014190865",
+			"skuItemType":"11",
+			"skuUuid":"F1g3Z3y1048368639797645312",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100012179580",
+			"skuItemType":"11",
+			"skuUuid":"FY3x4q1001892336543072256",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100008216886",
+			"skuItemType":"13",
+			"skuUuid":"F1V4W1S1035591222032818176",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100007300763",
+			"skuItemType":"13",
+			"skuUuid":"F1t1m3m1011748052774313984",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100010786833",
+			"skuItemType":"13",
+			"skuUuid":"F1J2B1H1001892227340124160",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100017597718",
+			"skuItemType":"13",
+			"skuUuid":"F1ss1n1026765311532589056",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"0",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.02 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=838060914&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=838060914&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥2000",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	,
+	
+	{
+	 	"couponDo":"2", 
+        "couponId":"163561828299",
+        "batchId":"836973574", 
+        "type":"1", 
+        "encryptedKey":"",
+        "beginTime":"2022-02-01 00:00:00",
+        "endTime":"2022-02-28 23:59:59", 
+        "discount":"10", 
+        "quota":"700", 
+        "name":"仅可购买海信电视部分商品", 
+        "couponKind":"1",
+        "couponType":"1", 
+        "hourCoupon":"1", 
+        "couponTitle":"", 
+		"couponSrc":"0",
+ 		"actRuleid":"0", 
+ 		"actRuleId":"0", 
+		"shopId":"0", 
+        "overlap":"1", 
+		"skuidlist":[
+		
+	 	100024108628
+		,
+		
+	 	100008483033
+		,
+		
+	 	100015417592
+		,
+		
+	 	100007300763
+		,
+		
+	 	100022280616
+		,
+		
+	 	100017596022
+		,
+		
+	 	100017597718
+		
+		
+		],
+		"discountDesc":{
+        	"high":"", 
+			"discountInfo":[
+			
+			]
+		},
+		"skuItemList":[
+		
+		{
+			"id":"100024108628",
+			"skuItemType":"1",
+			"skuUuid":"FZ1Xf1026939716675670016",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100008483033",
+			"skuItemType":"11",
+			"skuUuid":"F1j1M2F1043987418780348416",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100015417592",
+			"skuItemType":"11",
+			"skuUuid":"F1g3U1Z1047191442292330496",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100007300763",
+			"skuItemType":"13",
+			"skuUuid":"F1t1m3m1011748052774313984",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100022280616",
+			"skuItemType":"13",
+			"skuUuid":"F1J2B1f1002982470356254720",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100017596022",
+			"skuItemType":"13",
+			"skuUuid":"11883673931296027180851200",
+			"useUuid":"0"
+		}
+		,
+		
+		{
+			"id":"100017597718",
+			"skuItemType":"13",
+			"skuUuid":"F1ss1n1026765311532589056",
+			"useUuid":"0"
+		}
+		
+		
+		],
+        "overlapDesc":"", 
+        "couponStyle":"0", 
+        "couponUserLable":"7",
+        "couponLable":"1",
+        "validTimeStr":"2022.02.01 - 2022.02.28",
+		"h5Url":"https://so.m.jd.com/list/couponSearch.action?coupon_batch=836973574&coupon_kind=1&jxgoods=0&quangoufrom=3",
+		"wxappUrl":"/pages/search/subPackages/coupon/coupon?batch=836973574&kind=1&from=cart&jxgoods=0&quangoufrom=3",
+		"needMoney":"¥700",
+		"totalPrice":"¥0",
+		"checkSkuNum":"0",
+		"coudanStatus":"1"
+	}
+	
+	
+	],
+    "coupons":[
+		
+	],
+    "skuItem":[
+		
+		{
+			"skuId":"100007300763",
+			"vSkuId":"",
+			"skuUuid":"F1t1m3m1011748052774313984",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥2399",
+			"imgUrl":"jfs/t1/119406/8/22221/160813/6209193dE573a45d7/d43d277c89c407e4.jpg",    
+			"skuItemType":"13",
+			"promotionId":"200194869336"  
+		} ,
+		
+		{
+			"skuId":"100008216886",
+			"vSkuId":"",
+			"skuUuid":"F1V4W1S1035591222032818176",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥1999",
+			"imgUrl":"jfs/t1/159769/10/25987/163990/6204c96bE16fe45ba/0a78f7d2167e182d.jpg",    
+			"skuItemType":"13",
+			"promotionId":"200194869336"  
+		} ,
+		
+		{
+			"skuId":"100008483033",
+			"vSkuId":"",
+			"skuUuid":"F1j1M2F1043987418780348416",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"3", 
+			"price":"¥4499",
+			"imgUrl":"jfs/t1/104433/38/22283/160320/620918e3E410c181a/eafc0306154dd68d.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200229692137"  
+		} ,
+		
+		{
+			"skuId":"100008718537",
+			"vSkuId":"",
+			"skuUuid":"F1I2M2f982652868834492416",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"2", 
+			"price":"¥3129",
+			"imgUrl":"jfs/t1/206444/1/17075/175858/62068f4eE53cc71af/d37e10368f127ee6.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200236810954"  
+		} ,
+		
+		{
+			"skuId":"100010607429",
+			"vSkuId":"",
+			"skuUuid":"F1k4D3t962478434957721600",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"3", 
+			"price":"¥6999",
+			"imgUrl":"jfs/t1/210763/10/17123/170992/62060796E654388e4/b9d9361882d22557.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"100010607431",
+			"vSkuId":"",
+			"skuUuid":"F2s2s1Y1048990261078790144",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥6029",
+			"imgUrl":"jfs/t1/109568/17/22744/170831/62060772E72a8185f/80f90bfd6c9e6101.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200236811492"  
+		} ,
+		
+		{
+			"skuId":"100010786833",
+			"vSkuId":"",
+			"skuUuid":"F1J2B1H1001892227340124160",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥3599",
+			"imgUrl":"jfs/t1/214216/35/12553/182100/6208d118E288670b1/a4c0869947e1df8f.jpg",    
+			"skuItemType":"13",
+			"promotionId":"200194869336"  
+		} ,
+		
+		{
+			"skuId":"100012179580",
+			"vSkuId":"",
+			"skuUuid":"FY3x4q1001892336543072256",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥4399",
+			"imgUrl":"jfs/t1/222270/39/10607/178039/6208d0b6E74ec5606/03dc761acd33b60c.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200213120214"  
+		} ,
+		
+		{
+			"skuId":"100014190865",
+			"vSkuId":"",
+			"skuUuid":"F1g3Z3y1048368639797645312",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥5669",
+			"imgUrl":"jfs/t1/109126/18/23681/184674/6208d0c9Ef335da6d/b85208a8087954c7.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200213120214"  
+		} ,
+		
+		{
+			"skuId":"100014511310",
+			"vSkuId":"",
+			"skuUuid":"F1t2x3c992812247766745088",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"3", 
+			"price":"¥6499",
+			"imgUrl":"jfs/t1/98292/19/21464/234372/62068ebfE4320a088/85e332cf81266e55.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200228386885"  
+		} ,
+		
+		{
+			"skuId":"100015417592",
+			"vSkuId":"",
+			"skuUuid":"F1g3U1Z1047191442292330496",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥3799",
+			"imgUrl":"jfs/t1/219464/15/12338/160472/620917d6E76b8e9ad/a65692d69ff11328.jpg",    
+			"skuItemType":"11",
+			"promotionId":"200229442078"  
+		} ,
+		
+		{
+			"skuId":"100015491508",
+			"vSkuId":"",
+			"skuUuid":"F1ss1R962071864110088192",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"2", 
+			"price":"¥2499",
+			"imgUrl":"jfs/t1/144605/13/21437/175729/62068f76E4ee62acb/0b73898bc7b1a64b.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"100017596022",
+			"vSkuId":"",
+			"skuUuid":"11883673931296027180851200",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"3", 
+			"price":"¥2599",
+			"imgUrl":"jfs/t1/115383/23/21999/155075/620682cfE4008937c/c46bbc3a93d03e75.jpg",    
+			"skuItemType":"13",
+			"promotionId":"200194869336"  
+		} ,
+		
+		{
+			"skuId":"100017597718",
+			"vSkuId":"",
+			"skuUuid":"F1ss1n1026765311532589056",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥3099",
+			"imgUrl":"jfs/t1/148638/34/23696/159429/62091912Ea25eb6c1/556eaa88b70edd0e.jpg",    
+			"skuItemType":"13",
+			"promotionId":"200194882137"  
+		} ,
+		
+		{
+			"skuId":"100017708766",
+			"vSkuId":"",
+			"skuUuid":"F1V4XS1038836552426700800",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥3979",
+			"imgUrl":"jfs/t1/122296/2/23393/157006/6209f5c4E4b1f79d3/508d293bf642ce4e.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"100019386658",
+			"vSkuId":"",
+			"skuUuid":"F1I3n3K1013573681099624448",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"3", 
+			"price":"¥2799",
+			"imgUrl":"jfs/t1/212659/4/12124/126473/6206286eE90221ef5/b4aeca2463cb4c38.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"100022280450",
+			"vSkuId":"",
+			"skuUuid":"Fm3R3u1038827545226399744",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥5999",
+			"imgUrl":"jfs/t1/106399/28/21646/166986/6206069bEb66f3dbc/ed92c15fa384df5c.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"100022280616",
+			"vSkuId":"",
+			"skuUuid":"F1J2B1f1002982470356254720",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥1099",
+			"imgUrl":"jfs/t1/167731/25/26170/158048/62091993E48883a0a/316754d8e186f0e3.jpg",    
+			"skuItemType":"13",
+			"promotionId":"200194869336"  
+		} ,
+		
+		{
+			"skuId":"100022875450",
+			"vSkuId":"",
+			"skuUuid":"f3lsd1029077024799141888",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥7199",
+			"imgUrl":"jfs/t1/214628/34/12347/164870/62062aaeEf56f37e8/f23a9ecafcb8e46b.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"100024108628",
+			"vSkuId":"",
+			"skuUuid":"FZ1Xf1026939716675670016",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥2799",
+			"imgUrl":"jfs/t1/209720/23/17229/169320/6209174cEa0976e10/bcfb09e71593821e.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} ,
+		
+		{
+			"skuId":"1161131",
+			"vSkuId":"",
+			"skuUuid":"FZ1z1U1019508262153498624",
+			"useUuid":"0",
+			"checkType":"0", 
+			"num":"1", 
+			"price":"¥79",
+			"imgUrl":"jfs/t1/149149/35/22235/105592/6204f02bEe16a2e37/cddf3b1598898368.jpg",    
+			"skuItemType":"1",
+			"promotionId":""  
+		} 
+		
+	]
+}
+
+)
